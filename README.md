@@ -6,4 +6,4 @@
 
 - name:Justin
 - address:Shanghai
-- wx:362018513 (备注github)
+- 走的不快，每周走几小步还是可以的
